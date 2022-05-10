@@ -34,25 +34,32 @@ if __name__ == "__main__":
         type=int,
         default=512
     )
+
+    # TODO: Add nnsize argument
     parser.add_argument(
         "--nnsize",
-        help="Hidden layer sizes for DNN -- provide space-separated layers",
+        help="Hidden layers.",
         nargs="+",
         type=int,
         default=[128, 32, 4]
     )
+    # TODO: Add nembeds argument
     parser.add_argument(
         "--nembeds",
-        help="Embedding size of a cross of n key real-valued parameters",
+        help="Embedding size for n key real-valued parameters.",
         type=int,
         default=3
     )
+    
+    # TODO: Add num_epochs argument
     parser.add_argument(
         "--num_epochs",
         help="Number of epochs to train the model.",
         type=int,
         default=10
     )
+
+    # TODO: Add train_examples argument
     parser.add_argument(
         "--train_examples",
         help="""Number of examples (in thousands) to run the training job over.
@@ -60,17 +67,19 @@ if __name__ == "__main__":
         them. So specifying 1000 here when you have only 100k examples makes
         this 10 epochs.""",
         type=int,
-        default=5000
+        default=1000
     )
+
+    # TODO: Add eval_steps argument
     parser.add_argument(
         "--eval_steps",
         help="""Positive number of steps for which to evaluate model. Default
         to None, which means to evaluate until input_fn raises an end-of-input
         exception""",
         type=int,
-        default=None
+        default=512
     )
-
+    
     # Parse all arguments
     args = parser.parse_args()
     arguments = args.__dict__
