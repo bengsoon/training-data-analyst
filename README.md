@@ -4,3 +4,5 @@
 1. Lab 1: [courses/machine_learning/deepdive/06_structured/1_explore.ipynb](courses/machine_learning/deepdive/06_structured/1_explore.ipynb)
 2. Lab 2: [courses/machine_learning/deepdive2/end_to_end_ml/labs/sample_babyweight.ipynb](courses/machine_learning/deepdive2/end_to_end_ml/labs/sample_babyweight.ipynb)
 
+3. Lab 3: [courses/machine_learning/deepdive2/end_to_end_ml/labs/keras_dnn_babyweight.ipynb](courses/machine_learning/deepdive2/end_to_end_ml/labs/keras_dnn_babyweight.ipynb)
+4. Lab 4: [courses/machine_learning/deepdive2/end_to_end_ml/labs/preproc.ipynb](courses/machine_learning/deepdive2/end_to_end_ml/labs/preproc.ipynb)
