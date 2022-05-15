@@ -9,3 +9,4 @@
 5. Lab 5: [courses/machine_learning/deepdive2/end_to_end_ml/labs/train_keras_ai_platform_babyweight.ipynb](courses/machine_learning/deepdive2/end_to_end_ml/labs/train_keras_ai_platform_babyweight.ipynb)
 ### Production Machine Learning Course
 1. Lab 1: [courses/machine_learning/deepdive2/production_ml/babyweight/train_deploy.ipynb](courses/machine_learning/deepdive2/production_ml/babyweight/train_deploy.ipynb)
+2. Lab 2: [courses/machine_learning/deepdive2/production_ml/labs/tfdv_basic_spending.ipynb](courses/machine_learning/deepdive2/production_ml/labs/tfdv_basic_spending.ipynb)
