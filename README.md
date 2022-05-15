@@ -10,3 +10,4 @@
 ### Production Machine Learning Course
 1. Lab 1: [courses/machine_learning/deepdive2/production_ml/babyweight/train_deploy.ipynb](courses/machine_learning/deepdive2/production_ml/babyweight/train_deploy.ipynb)
 2. Lab 2: [courses/machine_learning/deepdive2/production_ml/labs/tfdv_basic_spending.ipynb](courses/machine_learning/deepdive2/production_ml/labs/tfdv_basic_spending.ipynb)
+Lab 3: [courses/machine_learning/deepdive2/production_ml/labs/tfdv_advanced_taxi.ipynb](courses/machine_learning/deepdive2/production_ml/labs/tfdv_advanced_taxi.ipynb)
